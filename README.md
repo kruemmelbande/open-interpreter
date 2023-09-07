@@ -68,6 +68,9 @@ interpreter.chat("Plot APPL and META's normalized stock prices") # Executes a si
 interpreter.chat() # Starts an interactive chat
 ```
 
+## This fork has been testet only on Windows and llama. It might not fit your needs  
+## You might want to set n_ctx to a higher number like 1500 in llama.py
+
 ## Comparison to ChatGPT's Code Interpreter
 
 OpenAI's release of [Code Interpreter](https://openai.com/blog/chatgpt-plugins#code-interpreter) with GPT-4 presents a fantastic opportunity to accomplish real-world tasks with ChatGPT.
